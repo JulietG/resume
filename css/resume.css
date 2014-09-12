@@ -1,11 +1,11 @@
-h1
-			{text-align: center;}
-			p.indent{margin-left: 60pt;}
-			ul{margin-left: 60pt;}
-
 body{
-	background-color: #BBBED7;
-	margin: 0 30px;
-
-
+	margin: 40px 500px 40px 100px;
+	width: 800px;
+	font-family: 'Josefin Slab', serif;
+	line-height: 1.2em;
 }
+
+ul{
+	list-style: none;
+}
+.topic {font-weight: bold;}
