@@ -1,0 +1,11 @@
+body{
+	margin: 40px 500px 40px 100px;
+	width: 800px;
+	font-family: 'Josefin Slab', serif;
+	line-height: 1.2em;
+}
+
+ul{
+	list-style: none;
+}
+.topic {font-weight: bold;}
